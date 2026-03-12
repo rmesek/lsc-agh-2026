@@ -1,0 +1,3 @@
+- sprawozdania regularnie w języku angielskim
+- nie za dużo kodu ani zrzutów ekranu
+- krótki raport o PLGrid
