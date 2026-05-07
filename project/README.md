@@ -5,6 +5,10 @@
 * Robert Mesek
 * Joanna Konieczny
 
+## Theoretical Design and Implementation
+
+<!-- TODO -->
+
 ## Libraries:
 
 * [PyTorch Forecasting](https://pytorch-forecasting.readthedocs.io/en/stable/index.html)
